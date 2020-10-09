@@ -11,5 +11,5 @@ The Player uses the 'W' and 'S' keys to move their paddle up or down, while the 
 Visual Studio / C++
 
 ## Author
-Peter Look II
+Peter Look
 
